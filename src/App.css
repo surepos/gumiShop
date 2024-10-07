@@ -1782,18 +1782,18 @@ font-size: 0.9rem;
       padding: 30px;
     }
     .third-section-container .customer-service-container .customer-service-title {
-      font-size: 1.4rem;
+      font-size: 1.1rem;
   }
   .third-section-container .customer-service-container .phone-number {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 .third-section-container .working-hour .time, .working-hour .day {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 .customer-service-buttons .kakao, .customer-service-buttons .address {
   padding: 5px 5px;
   border-radius: 5px;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 .third-section-container .booking .booking-container .booking-title{
   font-size: 1.4rem;
