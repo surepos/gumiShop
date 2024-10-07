@@ -50,12 +50,37 @@ function Service() {
         service: "속눈썹펌",
         types: [
             {
-                type: "클래식연장",
+                type: "기본펌",
                 subtypes: [
-                    { name: "내추럴(0.10t)" },
-                    { name: "천연밍크(0.10t)" },
-                    { name: "스모키(0.20t)"},
-                    { name: "스모키(0.23t)"}
+                    { name: "-" },
+                ]
+            },
+            {
+                type: "케라틴영양펌",
+                subtypes: [
+                    { name: "-" },
+                ]
+            }
+        ]
+    },
+    {
+        service: "네일",
+        types: [
+            {
+                type: "-",
+                subtypes: [
+                    { name: "-" },
+                ]
+            }
+        ]
+    },
+    {
+        service: "스킨플래닝",
+        types: [
+            {
+                type: "",
+                subtypes: [
+                    { name: "-" },
                 ]
             }
         ]

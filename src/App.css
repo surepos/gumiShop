@@ -731,7 +731,10 @@ th, td {
 .table-container tr:nth-child(5) td:nth-child(1), 
 .table-container tr:nth-child(8) td:nth-child(1), 
 .table-container tr:nth-child(14) td:nth-child(1),
-.table-container tr:nth-child(16) td:nth-child(2), 
+.table-container tr:nth-child(16) td:nth-child(2),
+.table-container tr:nth-child(17) td:nth-child(1), 
+.table-container tr:nth-child(18) td:nth-child(2), 
+.table-container tr:nth-child(19) td:nth-child(2), 
 .table-container td:nth-child(4) {
   background-color: rgba(118, 114, 114, 0.2); 
   transition: transform 0.3s ease-in-out;
@@ -741,6 +744,9 @@ th, td {
 .table-container tr:nth-child(8) td:nth-child(1):hover, 
 .table-container tr:nth-child(14) td:nth-child(1):hover,
 .table-container tr:nth-child(16) td:nth-child(2):hover, 
+.table-container tr:nth-child(17) td:nth-child(1):hover, 
+.table-container tr:nth-child(18) td:nth-child(2):hover, 
+.table-container tr:nth-child(19) td:nth-child(2):hover, 
 .table-container td:nth-child(4):hover {
   background-color: rgba(118, 114, 114, 0.7); 
   color: #FFF;
