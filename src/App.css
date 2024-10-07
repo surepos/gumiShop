@@ -403,7 +403,7 @@ line-height: 2.2rem;
   width: 70%;
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 25px;
   border: 1px solid rgb(0, 0, 0, 0.5);
   border-radius: 20px;
   padding: 30px 50px;
@@ -1073,6 +1073,7 @@ display: flex;
   .third-section-container .customer-service-container .customer-service{
     padding: 30px 30px;
     width: 60%;
+    gap: 35px;
   }
  }
  @media (max-width: 1100px) {
@@ -1112,6 +1113,7 @@ display: flex;
   }
   .shop-direction .customer-service-container .customer-service{
     width: 100%;
+    gap: 35px;
   }
  
   .shop-direction .customer-service-container .customer-service-title{
@@ -1139,22 +1141,23 @@ display: flex;
    font-weight: 200;
 }
 .third-section-container .customer-service-container .customer-service{
-  width: 90%;
+  width: 100%;
+  gap: 20px;
 }
   
 .third-section-container .customer-service-container .customer-service-title {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 .third-section-container .customer-service-container .phone-number {
-font-size: 1rem;
+font-size: 1.8rem;
 }
 .third-section-container .working-hour .time, .working-hour .day {
-font-size: 0.7rem;
+font-size: 0.9rem;
 }
 .customer-service-buttons .kakao, .customer-service-buttons .address {
 padding: 5px 5px;
 border-radius: 5px;
-font-size: 0.7rem;
+font-size: 1rem;
 }
 .third-section-container .booking .booking-container .booking-title{
 font-size: 1.4rem;
@@ -1756,6 +1759,7 @@ font-size: 0.9rem;
     }
     .third-section-container .customer-service-container{
       width: 100%;
+      gap: 30px;
     }
     .third-section-container .customer-service-container .customer-service{
       width: 80%;

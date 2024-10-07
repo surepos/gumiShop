@@ -78,7 +78,7 @@ function Service() {
         service: "스킨플래닝",
         types: [
             {
-                type: "",
+                type: "-",
                 subtypes: [
                     { name: "-" },
                 ]

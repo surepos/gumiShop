@@ -236,15 +236,12 @@ function LandingPage(props) {
               <div className="phone-number">010-9448-1769</div>
               <div className="working-hour">
                 <div className="day"> {t("monday_wednesday_thursday")} </div>
-                <div className="time">Am 10:00 - Pm 19:00</div>
+                <div className="time">Am 10:00 - Pm 22:00</div>
               </div>
-              <div className="working-hour">
-                <div className="day">{t("tuesday_friday")}</div>
-                <div className="time">Am 10:00 - Pm 21:00</div>
-              </div>
+              
               <div className="working-hour">
                 <div className="day">{t("weekend_holiday")}</div>
-                <div className="time">Am 10:00 - Pm 16:00</div>
+                <div className="time">Am 10:00 - Pm 22:00</div>
               </div>
               <div className="working-hour">
                 <div className="day">{t("location")}</div>
